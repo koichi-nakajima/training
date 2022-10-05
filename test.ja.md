@@ -3,7 +3,7 @@ title: "Check markdown with escape (backslash)"
 weight: 9999
 ---
 
-マークダウン翻訳の実験です。
+マークダウン翻訳の実験です。、、、、、
 
 {{%service%}}の画面を、HTMLの\<frame>または\<iframe>タグを使用してほかの<span class="notranslate">Webサイト</span>や普段よく使っているシステムなどの画面に埋め込む場合に必要な設定について説明します。初期設定では、{{%service%}}共通管理画面でクリックジャッキングからの保護が有効になっています。\<frame>または\<iframe>タグを使用した埋め込みを行う場合は、クリックジャッキングからの保護を無効にします。
 {{% note %}}この％ｎｏｔｅ％は1行の中にタグ部分も書いています。![保存ボタン](/k/img-ja/save.png) をクリックします。{{% /note %}}
